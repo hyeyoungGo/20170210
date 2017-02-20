@@ -10,8 +10,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import org.eclipse.jdt.internal.compiler.lookup.InvocationSite.EmptyWithAstNode;
-
 import com.bit2017.guestbook.dao.GuestBookDao;
 import com.bit2017.guestbook.vo.GuestBookVo;
 
